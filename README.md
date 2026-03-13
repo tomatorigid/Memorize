@@ -1,0 +1,2 @@
+# Memorize
+A lightweight notepad
